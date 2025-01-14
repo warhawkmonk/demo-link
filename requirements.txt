@@ -1,0 +1,21 @@
+pandas
+Pillow  # PIL
+streamlit
+opencv-python-headless  # cv2
+streamlit-drawable-canvas
+torch
+diffusers
+numpy
+streamlit-image-select
+requests
+streamlit-navigation-bar
+langchain-community
+transformers
+streamlit-lottie
+streamlit-option-menu
+PyPDF2
+streamlit_pdf_viewer
+streamlit-modal
+streamlit_js_eval
+sentence_transformers
+PyMuPDF
